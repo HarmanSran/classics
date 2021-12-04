@@ -19,3 +19,8 @@ body > div,
 body > div > div {
   height: 100%;
 }
+
+/* Adds a large blank space at bottom of grid otherwise */
+#query-on-demand-indicator-element {
+  height: 0px;
+}
